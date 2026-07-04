@@ -28,13 +28,7 @@ Este projeto vai muito além do HTML/CSS básico. A inteligência da aplicação
 
 ---
 
-## 🎨 O Olhar do Design Gráfico (Conexão ETEC)
 
-Como estudante de **Design Gráfico na ETEC**, alinhei a estrutura do código à experiência do usuário (UX):
-* **Feedback de Estado (State Indicator):** Manipulação dinâmica de classes CSS (`.classList.add('selected')`) para que o usuário identifique instantaneamente qual tamanho de produto (P, M ou G) está selecionado.
-* **Clean Code:** Organização modular do código que reflete os princípios de design: clareza, legibilidade, intenção e estrutura lógica bem delimitada.
-
----
 
 ## 🔧 Como Executar Localmente
 
